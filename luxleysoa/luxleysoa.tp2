@@ -93,7 +93,10 @@ LANGUAGE ~Russian (translation by Austin)~
          ~luxleysoa/lang/english/setup.tra~
          ~luxleysoa/lang/russian/setup.tra~
 
-
+LANGUAGE ~Schinese~
+         ~schinese~
+         ~luxleysoa/lang/english/setup.tra~
+         ~luxleysoa/lang/schinese/setup.tra~
 
 /* ====================================================== *
  *    Luxley Family Mod for BGII:SoA  (main component)    *
